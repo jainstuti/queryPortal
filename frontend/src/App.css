@@ -1,0 +1,94 @@
+.query-details{
+  width: 60%;
+  margin:20px;
+  padding: 7px;
+  border-radius: 1%;
+  border: 1px solid rgb(87, 171, 210);
+  box-shadow: 3px 7px 8px #888888;
+  background-color: white;
+  opacity: 90%;
+}
+
+
+#userHandle{
+  text-align: right;
+  background-color: rgb(86, 183, 236);
+  color: white;
+  margin-top: 0;
+  height: 40px;
+  font-size: larger;
+  padding-top: 10px;
+  padding-right: 25px;
+  font-weight: bold;
+}
+
+#heading{
+  margin-left: 20px;
+}
+
+#resolveBtn{
+  text-align: right;
+}
+#createdAt{
+  color: rgb(113, 112, 112);
+  display: inline;
+  position: relative;
+  right: -670px;
+  top: -35px;
+  font-size: small;
+  /* top: 100px; */
+}
+
+.submitQuery form, .login form{
+  
+  background-color: rgb(234, 234, 236);
+  padding: 60px 0;
+  margin: 20px auto;
+  width: 50%;
+
+}
+.submitQuery, .login{
+  text-align: center;
+}
+
+#username, #desc, #usrnm, #password{
+   margin-bottom: 40px; 
+  margin-left: 20px; 
+}
+.submitQuery button, .login button{
+  font-size: large;
+  background-color: rgb(208, 167, 42);
+}
+
+#queryDesciption{
+  position: relative;
+  top: -70px;
+  left: 20px;
+  margin-right: 20px;
+}
+
+.home{
+  opacity: 90%;
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/917/298/427/winter-blue-mountains-lighthouse-wallpaper-preview.jpg');
+  /* height: 500px; */
+  background-repeat: no-repeat;
+  background-size: cover;   
+  padding-bottom: 50px;
+  /* background-color: rgb(211, 229, 239); */
+}
+
+.query-details h4 {
+  color: #4D8FAC;
+  /* font-weight: 300; */
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#resolveBtn button{
+  background-color: #F0FFFF;
+  font-size:small;
+  padding: 5px;
+  border-radius: 5px;
+  /* color: white; */
+}
