@@ -1,7 +1,7 @@
 # queryPortal
 
 Demo video
-https://user-images.githubusercontent.com/34738261/211378360-12159d6a-e8cd-42fe-8283-1cc1bbfd08e5.mov
+https://youtu.be/O3xue4NQ-rk
 
 Steps to run on local machine:
 1. Clone the repo
