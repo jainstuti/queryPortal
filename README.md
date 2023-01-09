@@ -9,6 +9,7 @@ Steps to run on local machine:
 3. Open integrated terminal of code editor
 4. Run following commands:
 cd backend
+
 npm install
 5. Create a database using Mongodb atlas and generate your connection string. Paste the connection string in .env file like so:
 MONGO_URI="your_connection_string"
@@ -18,4 +19,5 @@ nodemon server.js
 7. Open another integrated terminal and run following commands to:
 cd frontend
 npm install
+
 npm start
