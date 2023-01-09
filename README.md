@@ -20,10 +20,12 @@ Steps to run on local machine:
   MONGO_URI="your_connection_string"
 ```
 Replace <password> in your connection string with your database password
+  
 6. Run the following in the opened terminal to spin up the server
 ```
   nodemon server.js
 ```
+  
 7. Open another integrated terminal and run following commands to:
 ```
   cd frontend
